@@ -5,7 +5,7 @@
 ### 1. 克隆并安装SAM2
 
 ```bash
-# 在task_dh目录下 (一定是在该目录下)
+# 在当前目录下 (一定是在该目录下)
 git clone https://github.com/facebookresearch/segment-anything-2.git
 cd segment-anything-2
 pip install -e .
